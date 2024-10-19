@@ -1,0 +1,5 @@
+1. Заходим в telegram и в поиске пишем @BotFather
+2. Кликаем на бот с галочкой
+
+
+скачать модуль для работы с ботом pip install pyTelegramBotAPI
